@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/611f6bd89ef203879cf17ae4
+Content-Type: application/json
+
+{
+    "title": "Testiblogi",
+    "author": "Joseph Garfield",
+    "url": "https://www.testiblogi.fi",
+    "likes": 12
+}

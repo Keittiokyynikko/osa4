@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Hullua",
+    "author": "Jack Nickson",
+    "url": "https://www.propagandaa.fi",
+    "likes": 30,
+    "userId": "6128e0482b16199bb8d94b7b"
+}
